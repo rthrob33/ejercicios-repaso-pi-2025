@@ -1,0 +1,24 @@
+{
+  "name": "ejerciciosrepaso",
+  "version": "1.0.0",
+  "description": "Este repositorio contiene un total de 50 ejercicios prácticos organizados por tema y nivel de dificultad.",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rthrob33/ejercicios-repaso-pi-2025.git"
+  },
+  "author": "Roberth Melendez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rthrob33/ejercicios-repaso-pi-2025/issues"
+  },
+  "homepage": "https://github.com/rthrob33/ejercicios-repaso-pi-2025#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "readline-sync": "^1.4.10"
+  }
+}
